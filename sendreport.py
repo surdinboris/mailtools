@@ -23,7 +23,7 @@ def sendrep(vari):
         <strong><b>Testing mail:</b></strong>
         """ + vari + """ 
         <p><u>Testing text :</u><br>
-        <a href="http://" </a> 
+        <a href="http://test" test </a> 
         <p>Using """ + os.path.realpath(__file__) +""" <p>
         <p>Generated at: """ + curtime + """
         <p>IVT Team.<br>
